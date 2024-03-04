@@ -7,4 +7,14 @@
 7. Rosa https://dle.rae.es/rosa?m=form
 8. Fútbol https://dle.rae.es/f%C3%BAtbol?m=form
 9. Peca https://dle.rae.es/peca?m=form
-1. Pulga https://dle.rae.es/pulga?m=form
+10. Pulga https://dle.rae.es/pulga?m=form
+11. chimenea https://dle.rae.es/chimenea?m=form
+12. flor https://dle.rae.es/flor?m=form
+13. honesto https://dle.rae.es/honesto?m=form
+14. ciervo https://dle.rae.es/ciervo?m=form
+15. astrofísico https://dle.rae.es/astrof%C3%ADsico?m=form
+16. ciencia https://dle.rae.es/ciencia?m=form
+17. extremidad https://dle.rae.es/extremidad?m=form
+18. deporte https://dle.rae.es/deporte?m=form
+19. azul https://dle.rae.es/azul?m=form
+20. felicidad https://dle.rae.es/felicidad?m=form
